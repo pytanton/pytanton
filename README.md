@@ -1,4 +1,4 @@
-##👋 Hey, folks! 
+## 👋 Hey, folks! 
 ![FE developer](https://github.com/pytanton/pytanton/assets/135310921/6e3cd71c-6189-49b9-b0e0-2da3c08e3c65)
 I'm Anton, your friendly neighborhood Pythonista who loves coding more than morning coffee (and that's saying something!)
 
